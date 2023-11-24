@@ -25,7 +25,7 @@
 
 # Hosting
 - List of free hosting sites
-  - RENDER
-  - ALWAYS DATA
-  - MONGO ATLAS
-  - NETLIFY
+  - RENDER - ( For Node Js )
+  - ALWAYS DATA ( For Plain HTML, PHP & MYSQL )
+  - MONGO ATLAS ( For Mongo DB )
+  - NETLIFY ( For Frontend Frameworks )
