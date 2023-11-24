@@ -3,7 +3,7 @@
 - Hi I'm Joshua, a self-taught and aspiring entry full stack developer.
 - I learned how to code only from youtube tutorials.
 - I didn't go to college due to financial problems.
-- I'm looking for a " intership, partime or fulltime " job.
+- I'm looking for " intership, partime or fulltime " job.
 - I'm also open for project collaboration.
 
 # Stacks
