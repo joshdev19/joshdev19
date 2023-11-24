@@ -20,6 +20,7 @@
 
 # Extras
 - POSTMAN
+- FileZilla
 - GITHUB ( FETCH, PULL, ADD, COMMIT, PUSH, STASH, REFLOG, RESET, CHECKOUT )
 
 # Hosting
