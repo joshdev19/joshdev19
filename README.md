@@ -14,6 +14,8 @@
 - MYSQL - ( Beginner Level )
 - SQL - ( Beginner Level )
 - REACT + VITE JS - ( Intermediate Level )
+- TYPESCRIPT IN REACT ( Beginner Level )
+- NEXT JS ( Beginner Level )
 - EXPRESS JS - ( Intermediate Level )
 - NODE JS - ( Intermediate Level )
 - MONGODB - ( Beginner Level )
