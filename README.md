@@ -19,9 +19,19 @@
 - EXPRESS JS - ( Intermediate Level )
 - NODE JS - ( Intermediate Level )
 - MONGODB - ( Beginner Level )
+- TANSTACK ( Beginner Level )
+- KOA FRAMEWORK ( Intermediate Level )
+- STRAPI ( Beginner Level )
 
-# Extras
+# Packages
+- JOTAI ( Beginner Level )
+- PLAYWRIGHT ( Beginner Level )
+
+# Extras / Tools
+- Docker ( Beginner Level )
 - POSTMAN
+- REST CLIENT
+- INSOMIA
 - FileZilla
 - GITHUB ( FETCH, PULL, ADD, COMMIT, PUSH, STASH, REFLOG, RESET, CHECKOUT )
 
